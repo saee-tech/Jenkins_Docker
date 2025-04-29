@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/fbf2b850-9229-408c-bdde-fa173b0e0b59)# Jenkins_Docker
+![image](https://github.com/user-attachments/assets/d5846360-61b3-4c41-9b45-e63c4552b1b7)
+# Jenkins_Docker
 Here’s a Dockerfile to install and run Jenkins (LTS version) using a base image. Jenkins runs on port 8080, and this setup uses the official LTS Debian-based Jenkins image as a base to simplify the build.
 
 Build and Run the docker file 
